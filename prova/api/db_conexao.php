@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "banco_vagas";
+$dbname = "sistema_vagas";
 $user = "root";
 $pass = "";
 
